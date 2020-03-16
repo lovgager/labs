@@ -1,0 +1,13 @@
+﻿  stdafx.cpp
+  Dll1.cpp
+c:\users\oleg\desktop\лаба 5\dll1\dll1.cpp(91): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\oleg\desktop\лаба 5\dll1\dll1.cpp(188): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\oleg\desktop\лаба 5\dll1\dll1.cpp(200): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\oleg\desktop\лаба 5\dll1\dll1.cpp(274): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\oleg\desktop\лаба 5\dll1\dll1.cpp(275): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\oleg\desktop\лаба 5\dll1\dll1.cpp(282): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\oleg\desktop\лаба 5\dll1\dll1.cpp(283): warning C4018: <: несоответствие типов со знаком и без знака
+  dllmain.cpp
+  Создание кода...
+     Создается библиотека C:\Users\Oleg\Desktop\Лаба 5\Dll1\Debug\Dll1.lib и объект C:\Users\Oleg\Desktop\Лаба 5\Dll1\Debug\Dll1.exp
+  Dll1.vcxproj -> C:\Users\Oleg\Desktop\Лаба 5\Dll1\Debug\Dll1.dll
